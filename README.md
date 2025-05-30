@@ -1,22 +1,33 @@
-# Static Website Hosting with Amazon S3
+# Static Website Hosting on AWS S3
 
-## 🔍 Project Overview
-This project demonstrates how to host a static website using Amazon S3. It includes the steps to upload a basic HTML file, configure bucket settings, and enable public access for website hosting.
+This project demonstrates how to host a static website using AWS S3.
 
-## 🎯 Objectives
-- Create and configure an S3 bucket
-- Upload and serve static content (HTML)
-- Learn S3 static hosting and public access settings
+## 🌐 Live Website
+[Click here to view](http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/)
 
-## 🛠️ Technologies Used
-- Amazon S3 (AWS)
-- HTML/CSS
-- AWS Management Console
+## 📁 Technologies Used
+- **AWS S3** for static website hosting
+- **HTML** for webpage content
 
-## 🚀 Hosted Website
-👉 [http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/](http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/)
+## ✅ Features
+- Bucket creation and configuration
+- Object upload with public access
+- Static website hosting enabled
+- Custom index page displayed
 
-## 📁 Project Structure
-static-website-s3/
-├── index.html
-└── README.md
+## 🖼️ Screenshots
+
+### 🪣 1. Bucket Creation
+![Bucket](images/bucket.png)
+
+### 📦 2. Object Upload
+![Object](images/object.png)
+
+### 🔐 3. Permission and Policy
+![Permission and Policy](images/permission%20and%20policy.png)
+
+### 🌍 4. Hosted Website
+![Website](images/website.png)
+
+## 📎 GitHub Repository
+[https://github.com/AtharvaMSable/static-website-s3](https://github.com/AtharvaMSable/static-website-s3)
