@@ -14,6 +14,6 @@ This project demonstrates how to host a static website using Amazon S3. It inclu
 - AWS Management Console
 
 ## 🚀 Hosted Website
-👉 [http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/](#)  
+👉 [http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/](http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/)
 
 ## 📁 Project Structure
