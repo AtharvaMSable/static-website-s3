@@ -15,6 +15,5 @@ This project demonstrates how to host a static website using Amazon S3. It inclu
 
 ## 🚀 Hosted Website
 👉 [http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/](#)  
-*(Replace with your actual S3 bucket website URL)*
 
 ## 📁 Project Structure
