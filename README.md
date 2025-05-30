@@ -17,3 +17,6 @@ This project demonstrates how to host a static website using Amazon S3. It inclu
 👉 [http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/](http://atharva-static-site.s3-website.eu-north-1.amazonaws.com/)
 
 ## 📁 Project Structure
+static-website-s3/
+├── index.html
+└── README.md
